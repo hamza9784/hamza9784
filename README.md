@@ -5,14 +5,14 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <a href="https://github.com/hamza2657">
+  <a href="https://github.com/hamza9784">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Firmware+for+EV+chargers+%7C+IoT+%7C+Home+Automation;C+%2F+C%2B%2B+%7C+ESP32+%7C+STM32+%7C+NXP+S32K;Bare-metal+%7C+FreeRTOS+%7C+Zephyr+%7C+Embedded+Linux;3.5%2B+years+shipping+production+firmware" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hamza2657"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:hamxa2657@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:hamza.m@oxeltech.de"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 - 🩺 Started out in **biomedical devices**: bare-metal STM32, custom task scheduler in Cortex-M assembly, Modbus over RS-485
 - 🛠 End-to-end comfort: peripheral drivers → communication protocols → cloud integration → OTA → CI/CD → production-line testing
 - 🎓 BS Electronics, Quaid-I-Azam University, Islamabad
-- 📫 Reach me at **hamxa2657@gmail.com** — open to interesting embedded problems
+- 📫 Reach me at **hamza.m@oxeltech.de** — open to interesting embedded problems
 
 ### 🧰 Tech Stack
 
