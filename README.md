@@ -73,7 +73,7 @@
 ### 🔥 Contributions
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hamza2657&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=hamza9784&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -81,8 +81,8 @@
 <!-- Contribution snake -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamza2657/hamza2657/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/hamza2657/hamza2657/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamza9784/hamza9784/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/hamza9784/hamza9784/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
